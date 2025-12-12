@@ -1,1 +1,2 @@
+# Lorentz Factor Simulation
 This is my project simulating the Lorentz Factor and observing chaos theory. This will be a project using languages in C++ and Python. I have included the output displaying the updated coordinates. Thank you for reading my post!
