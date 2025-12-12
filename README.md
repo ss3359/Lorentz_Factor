@@ -29,7 +29,7 @@ Project Structure: modular code, readable scripts, documented workflow
 
 ## How To Run 
 
-Compile and run the C++ simulation:
+1. Compile and run the C++ simulation:
 
 g++ Lorentz_Factor.cpp -o Lorentz_Factor
 ./Lorentz_Factor
@@ -37,9 +37,9 @@ g++ Lorentz_Factor.cpp -o Lorentz_Factor
 
 Output will generate CppOutput.txt with updated coordinates.
 
-Use Python notebook LFGraph.ipynb to visualize the data:
+2. Use Python notebook LFGraph.ipynb to visualize the data:
 
-# In Jupyter Notebook
+In Jupyter Notebook
 %run LFGraph.ipynb
 
 
